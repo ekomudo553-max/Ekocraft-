@@ -1,0 +1,1 @@
+export default function Services(){return <main className="wrap"><h1>EkoCraft Services</h1><div className="grid"><div className="card">Decorative Painting</div><div className="card">Wallpaper Installation</div><div className="card">3D Interior Design</div><div className="card">Exterior & Interior Decoration</div></div></main>}
